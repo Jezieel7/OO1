@@ -1,9 +1,6 @@
 # OO1
 Ejercicios prácticos realizados durante la cursada de la materia "Orientado a Objetos 1" de mi facultad. (2do Semestre del año 2021)
 
-
-Ejercicios prácticos realizados durante la cursada de la materia "Algoritmos y estructuras de datos" de mi facultad.
-
 Nota 1: La práctica contiene un parcial que realice durante la cursada.
 
 nota 2: Están subidas todas las consignas de las prácticas realizadas.
